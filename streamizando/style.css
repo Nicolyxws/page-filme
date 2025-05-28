@@ -1,0 +1,166 @@
+.macbook-air {
+    background-color: #040404;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .macbook-air .div {
+    background-color: #040404;
+    overflow: hidden;
+    width: 1280px;
+    height: 832px;
+    position: relative;
+  }
+  
+  .macbook-air .text-wrapper {
+    position: absolute;
+    width: 414px;
+    top: 21px;
+    left: 22px;
+    font-family: "Irish Grover-Regular", Helvetica;
+    font-weight: 400;
+    color: #ff1212;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .macbook-air .overlap-group {
+    position: absolute;
+    width: 830px;
+    height: 140px;
+    top: 21px;
+    left: 467px;
+  }
+  
+  .macbook-air .text-wrapper-2 {
+    position: absolute;
+    width: 414px;
+    top: 0;
+    left: 0;
+    font-family: "Itim-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 28px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .macbook-air .text-wrapper-3 {
+    position: absolute;
+    width: 414px;
+    top: 0;
+    left: 208px;
+    font-family: "Itim-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 28px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .macbook-air .text-wrapper-4 {
+    position: absolute;
+    width: 414px;
+    top: 0;
+    left: 416px;
+    font-family: "Itim-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 28px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .macbook-air .element-coisas {
+    position: absolute;
+    width: 168px;
+    height: 201px;
+    top: 162px;
+    left: 118px;
+    object-fit: cover;
+  }
+  
+  .macbook-air .a-proposta {
+    position: absolute;
+    width: 168px;
+    height: 201px;
+    top: 447px;
+    left: 118px;
+    object-fit: cover;
+  }
+  
+  .macbook-air .dirio-de-uma-paixao {
+    position: absolute;
+    width: 168px;
+    height: 201px;
+    top: 162px;
+    left: 337px;
+    object-fit: cover;
+  }
+  
+  .macbook-air .meninasmalvadas {
+    position: absolute;
+    width: 168px;
+    height: 201px;
+    top: 447px;
+    left: 337px;
+    object-fit: cover;
+  }
+  
+  .macbook-air .ela-demais {
+    position: absolute;
+    width: 168px;
+    height: 201px;
+    top: 162px;
+    left: 556px;
+    object-fit: cover;
+  }
+  
+  .macbook-air .spider-man {
+    position: absolute;
+    width: 168px;
+    height: 201px;
+    top: 447px;
+    left: 556px;
+    object-fit: cover;
+  }
+  
+  .macbook-air .scooby-doo-pster {
+    position: absolute;
+    width: 168px;
+    height: 201px;
+    top: 162px;
+    left: 775px;
+    object-fit: cover;
+  }
+  
+  .macbook-air .brookl {
+    position: absolute;
+    width: 168px;
+    height: 201px;
+    top: 447px;
+    left: 775px;
+    object-fit: cover;
+  }
+  
+  .macbook-air .como-perder {
+    position: absolute;
+    width: 168px;
+    height: 201px;
+    top: 162px;
+    left: 994px;
+    object-fit: cover;
+  }
+  
+  .macbook-air .para-todos-os {
+    position: absolute;
+    width: 168px;
+    height: 201px;
+    top: 447px;
+    left: 994px;
+    object-fit: cover;
+  }
+  
